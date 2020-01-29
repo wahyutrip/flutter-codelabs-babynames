@@ -1,4 +1,4 @@
-package id.floo.baby_names
+package com.wahyutrip.baby_names
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity

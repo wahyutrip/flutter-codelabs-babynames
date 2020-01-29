@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "794942040264",
+    "firebase_url": "https://flutter-codelabs-babynames.firebaseio.com",
+    "project_id": "flutter-codelabs-babynames",
+    "storage_bucket": "flutter-codelabs-babynames.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794942040264:android:ac590519723c5496ca5dfd",
+        "android_client_info": {
+          "package_name": "com.wahyutrip.baby_names"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794942040264-5rv6du2vk279maef4pggumurmti5o417.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-rQurEFWqeKk97BUwrTSZVlOVcZ3lTxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794942040264-5rv6du2vk279maef4pggumurmti5o417.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
